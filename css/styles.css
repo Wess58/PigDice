@@ -11,22 +11,44 @@ body{
   margin: 0 5px 100px   5px;
 }
 .card{
-  margin-top: -20%;
+  margin-top: -21%;
+  margin-left: 20px;
+  padding: 0 5px 0 5px;
   width: 18em;
   float: left;
   text-align: left;
+  transition: all .4s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.card:hover{
+  box-shadow: 5px 7px 10px 0 grey;
+
+}
+h4{
+  color: #f5499a;
+  font-family: 'Pacifico', cursive;
+
+}
+h5{
+  color: #f5499a;
+  font-family: 'Cute Font', cursive;
+  font-size: 30px;
+
+}
+.text{
+  font-family: 'Scheherazade', serif;
+  font-size: 18px;
 }
 #pig{
   width: 400px;
   height: 400px;
-  margin-left: 20%;
+  margin-left: 25%;
 
 }
 #h3{
   font-family: 'Pacifico', cursive;
   color: #fa0578;
   font-size: 60px;
-  margin-left: 30%;
+  margin-left: 35%;
   margin-top: -4em;
   text-shadow: 4px 6px 6px grey;
 
@@ -34,7 +56,7 @@ body{
 #dice{
   width: 150px;
   height: 120px;
-  margin-left: 53.5%;
+  margin-left: 39%;
   margin-top: -10%;
   border-radius: 50%;
 
