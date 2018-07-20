@@ -37,6 +37,8 @@ h5{
 .text{
   font-family: 'Scheherazade', serif;
   font-size: 18px;
+  font-weight: 500;
+
 }
 #pig{
   width: 400px;
@@ -90,4 +92,10 @@ h5{
   margin-left: 15%;
   font-family: 'Cute Font', cursive;
 
+}
+.btn{
+  font-weight: bold;
+}
+#btn1{
+  margin-left: 40%;
 }
