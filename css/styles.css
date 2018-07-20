@@ -8,10 +8,13 @@ body{
   background-color: #f5499a;
   padding: 0 5px 10px 20px;
   border-radius: 10px;
-  margin: 0 5px 0 5px;
+  margin: 0 5px 100px   5px;
 }
 .card{
-  
+  margin-top: -20%;
+  width: 18em;
+  float: left;
+  text-align: left;
 }
 #pig{
   width: 400px;
@@ -45,6 +48,7 @@ body{
 .avatar{
   width: 70px;
   height: 70px;
+  border-radius: 5px;
   -webkit-transition: all 1s ease-in-out;
   -moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
@@ -56,6 +60,8 @@ body{
   -moz-transform: rotate(360deg);
   -o-transform: rotate(360deg);
   -ms-transform: rotate(360deg);
+  border-radius: 5px;
+  box-shadow: 0 0 5px 5px  #a40650;
 
 }
 .player{
