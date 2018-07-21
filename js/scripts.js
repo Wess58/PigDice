@@ -1,6 +1,6 @@
 //User Logic
 $(document).ready(function(){
-  confirm("change browser size to 90% zoom");
+  confirm("change browser size to 100% zoom");
   $("form#playerButton").submit(function(event){
     event.preventDefault();
 
