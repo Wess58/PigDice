@@ -8,6 +8,7 @@
  If the player rolls a 1 his turn is over, he loses all points he accumulated that turn, and he passes the die to the next player.
  The website is one page only with a relaxing easy GUI, fun Hover effects and easy code to read, understand and debug.
 
+ Here's the link to the live webpage :https://wess58.github.io/PigDice/
 
 ### Prerequisites
 
