@@ -1,7 +1,5 @@
 body{
   background-color: #FFFFFF;
-  
-
 
 }
 .Top{
@@ -11,6 +9,19 @@ body{
   padding: 0 5px 10px 20px;
   border-radius: 10px;
   margin: 0 5px 100px   5px;
+}
+.btn-outline-danger{
+  margin-left: 85%;
+
+
+}
+#othergame{
+  margin-left: 85%;
+  margin-top: -3.5em;
+  color: #f5499a;
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+
 }
 .card{
   margin-top: -21%;
